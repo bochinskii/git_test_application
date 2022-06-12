@@ -1,9 +1,9 @@
 <html>
  <head>
-  <title>Test application v2</title>
+  <title>Test application v3</title>
  </head>
  <body>
-   <h1><?php echo '<p>Test application v2</p>'; ?></h1>
+   <h1><?php echo '<p>Test application v3</p>'; ?></h1>
    <br>
    <a href="info.php">PHP Info page</a>
    <a href="page1.php">Application information</a>
